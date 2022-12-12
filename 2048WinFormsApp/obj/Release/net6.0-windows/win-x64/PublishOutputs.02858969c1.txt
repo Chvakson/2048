@@ -1,0 +1,7 @@
+C:\С#\Publish\2048WinFormsApp.pdb
+C:\С#\Publish\D3DCompiler_47_cor3.dll
+C:\С#\Publish\PenImc_cor3.dll
+C:\С#\Publish\PresentationNative_cor3.dll
+C:\С#\Publish\vcruntime140_cor3.dll
+C:\С#\Publish\wpfgfx_cor3.dll
+C:\С#\Publish\2048WinFormsApp.exe

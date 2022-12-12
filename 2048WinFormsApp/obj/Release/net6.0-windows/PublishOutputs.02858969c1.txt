@@ -1,0 +1,6 @@
+C:\С#\Publish\2048WinFormsApp.exe
+C:\С#\Publish\2048WinFormsApp.dll
+C:\С#\Publish\2048WinFormsApp.deps.json
+C:\С#\Publish\2048WinFormsApp.runtimeconfig.json
+C:\С#\Publish\2048WinFormsApp.pdb
+C:\С#\Publish\Newtonsoft.Json.dll

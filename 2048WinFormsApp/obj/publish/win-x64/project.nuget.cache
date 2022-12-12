@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "+7UbsfPI8Ux7yAzI8K8UOAQzEbcIvad0tR+2ZgFGCTGnS0RB7ZVfWWcvcwCcq+LkYolbdijQr0VCoYlBxlUrkg==",
+  "success": true,
+  "projectFilePath": "C:\\С#\\GIT_C#\\2048WinFormsApp\\2048WinFormsApp\\2048WinFormsApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\79827\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\79827\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.11\\microsoft.netcore.app.runtime.win-x64.6.0.11.nupkg.sha512",
+    "C:\\Users\\79827\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.11\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.11.nupkg.sha512",
+    "C:\\Users\\79827\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.11\\microsoft.aspnetcore.app.runtime.win-x64.6.0.11.nupkg.sha512",
+    "C:\\Users\\79827\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.11\\microsoft.netcore.app.crossgen2.win-x64.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
